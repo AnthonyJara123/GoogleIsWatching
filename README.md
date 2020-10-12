@@ -11,7 +11,7 @@ Syntax highlighted code block
 
 ### 
 
-</ [Link to a Morse Code free chat room](http://morsecode.me/?room=1) />
+[Morse Code Free Chat](http://morsecode.me/?room=1)
 
 - Bulleted
 - List
