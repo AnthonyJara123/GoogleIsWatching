@@ -1,9 +1,8 @@
 # Morse Code Is actually very easy
 
 Use this picture for learning the patterns and letters 
-<img="https://lh3.googleusercontent.com/proxy/Qmc39vsfFnUFgPBhNDnzOgBUs62m0FZLeJ8RbuYwUM4U0U1K6rZFfNCnWyKU6LOXM4onBT7_mKx-peOVwPlfhaTYVGv8-NptTuuzYsFFaf5uXyM3MvqYJfVSSoyO6zdHjhSxNGeYefcg8Ibj88s" /> 
- 
- [![https://lh3.googleusercontent.com/proxy/Qmc39vsfFnUFgPBhNDnzOgBUs62m0FZLeJ8RbuYwUM4U0U1K6rZFfNCnWyKU6LOXM4onBT7_mKx-peOVwPlfhaTYVGv8-NptTuuzYsFFaf5uXyM3MvqYJfVSSoyO6zdHjhSxNGeYefcg8Ibj88s)
+
+![Morse Code letters](https://lh3.googleusercontent.com/proxy/Qmc39vsfFnUFgPBhNDnzOgBUs62m0FZLeJ8RbuYwUM4U0U1K6rZFfNCnWyKU6LOXM4onBT7_mKx-peOVwPlfhaTYVGv8-NptTuuzYsFFaf5uXyM3MvqYJfVSSoyO6zdHjhSxNGeYefcg8Ibj88s)
   
 ## This is how morse code was orginally transmitted 
 <img="https://3.bp.blogspot.com/-Yv847uZSFiI/WnA9EUlMmXI/AAAAAAAACuI/aW3Pk8qBUugfEMCLoJA7WBqmqo5vP3bRQCLcBGAs/s1600/telegraph.png" />
