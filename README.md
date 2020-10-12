@@ -15,7 +15,7 @@ Syntax highlighted code block
 ## It can be a fun hobby to pick up with you friends
 ### 
 
-[Link to a Morse Code free chat room](http://morsecode.me/?room=1)
+![Link to a Morse Code free chat room](http://morsecode.me/?room=1)
 
 - Bulleted
 - List
