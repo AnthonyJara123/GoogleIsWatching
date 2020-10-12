@@ -10,15 +10,9 @@ Use this picture for learning the patterns and letters
 
 This is called a Telegraph and it was invented in the 1830s and was commonly used for Morse Code. The sender would need to just type in the message and it would send it in the form of audio for the receiver. 
 
-### 
-
+### This is a free Morse Code chat 
+You can have a friend join you or just go in solo and test your speed of Morse Code. This is how my friends and I learned it accurately because you can learn the letters in a matter of days, but you need to get your timing and spacing down as well. 
 
 [Morse code free chat](http://morsecode.me/?room=1)
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
