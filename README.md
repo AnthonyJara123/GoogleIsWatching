@@ -1,9 +1,4 @@
-## Welcome to GitHub Pages
 
-### Markdown
-
-```markdown
-Syntax highlighted code block
 
 # Morse Code Is actually very easy
 
