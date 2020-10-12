@@ -13,8 +13,11 @@ Syntax highlighted code block
 
 [Morse Code Free Chat](http://morsecode.me/?room=1)
 
-- Bulleted
-- List
+- 
+
+
+
+<img="https://lh3.googleusercontent.com/proxy/Qmc39vsfFnUFgPBhNDnzOgBUs62m0FZLeJ8RbuYwUM4U0U1K6rZFfNCnWyKU6LOXM4onBT7_mKx-peOVwPlfhaTYVGv8-NptTuuzYsFFaf5uXyM3MvqYJfVSSoyO6zdHjhSxNGeYefcg8Ibj88s />
 
 1. Numbered
 2. List
@@ -23,13 +26,3 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/AnthonyJara123/GoogleIsWatching/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
