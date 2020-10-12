@@ -1,21 +1,17 @@
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/AnthonyJara123/GoogleIsWatching/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
 ### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
 
 # Morse Code Is actually very easy
+
 ## It can be a fun hobby to pick up with you friends
+
 ### 
 
-![Link to a Morse Code free chat room](http://morsecode.me/?room=1)
+</ [Link to a Morse Code free chat room](http://morsecode.me/?room=1) />
 
 - Bulleted
 - List
